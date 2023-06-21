@@ -1,0 +1,15 @@
+body{
+    background-image: url("sushi.background.png");
+    background-size: cover;
+}
+.box {
+    color: white;
+ }
+
+ .p{
+    color: white;
+    padding-left: 30px;
+    padding-top: 450px;
+    position: absolute;
+    bottom: 10px;
+}
